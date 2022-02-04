@@ -19,6 +19,12 @@ public class MyClass {
         char letter ='A';
         System.out.println(letter);
 
+        // Boolean = true or false
+        boolean isTall;
+        isTall = false;
+        System.out.println(isTall);
+
+
 
         System.out.println("Hello my name is " + firstName + ".");
         System.out.println(year);
