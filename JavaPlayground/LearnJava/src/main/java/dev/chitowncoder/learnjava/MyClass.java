@@ -12,6 +12,13 @@ public class MyClass {
         System.out.println(celsius);
         double height = 5.9d;
 
+        byte myByte = 127;
+        System.out.println(myByte); // 8 bits
+        short myShort = 290; // 16 bits
+
+        char letter ='A';
+        System.out.println(letter);
+
 
         System.out.println("Hello my name is " + firstName + ".");
         System.out.println(year);
